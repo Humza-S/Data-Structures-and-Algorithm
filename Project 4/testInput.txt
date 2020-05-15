@@ -1,0 +1,6 @@
+Integer
+Insert:98
+Insert:-68
+Insert:55
+Insert:45
+PrintTree
